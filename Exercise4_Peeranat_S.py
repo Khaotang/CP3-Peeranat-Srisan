@@ -1,10 +1,10 @@
-ScoreEng = 99
-ScoreGB = 99
-ScoreICS  = 99
-ScoreCP = 99
+Score_Eng = 99
+Score_GB = 99
+Score_ICS  = 99
+Score_CP = 99
 
 print("-------------Your Score-------------")
-print("Foundation English =",ScoreEng)
-print("General Business",ScoreGB)
-print("Introduction to Computer Systems",ScoreICS)
-print("Computer Programming",ScoreCP)
+print("Foundation English =",Score_Eng)
+print("General Business",Score_GB)
+print("Introduction to Computer Systems",Score_ICS)
+print("Computer Programming",Score_CP)
